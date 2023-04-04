@@ -2,7 +2,7 @@
 
 # ReactJS App for Face Identification Flask API Test
 
-This is a ReactJS app created with Vite to test a face identification Flask API available at https://github.com/HicH987/face_id_flask_api. The app allows the user to take a picture of their face using the webcam and upload it to the server to check if the face is known. If the face is known, the name of the person will be displayed above the webcam window. If the face is unknown, the user will be prompted to input their name and submit it to the server.
+This is a ReactJS app created with Vite to test a face identification Flask API available [here](https://github.com/HicH987/face_id_flask_api). The app allows the user to take a picture of their face using the webcam and upload it to the server to check if the face is known. If the face is known, the name of the person will be displayed above the webcam window. If the face is unknown, the user will be prompted to input their name and submit it to the server.
 
 ## Requirements
 
